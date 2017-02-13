@@ -1,10 +1,18 @@
- - pluralize
+- Babel vs Try Elm
+- pluralize
   misspell
   mis typed "1"
 - Records in elm
   name, value pairs
   can't iterate over keys
   no methods, only data
- - Presentation stolen from Richard Feldman's talk Introduction to Elm
- - Mario Time Travelling Debugger
-  - Stores inputs and sends them through the new code after hot swapping
+- Types
+- Type aliases
+- Union types
+  - Increment with a number
+- Compile time guarantees for Union types and case
+- Currying
+- Markdown viewer
+- Presentation stolen from Richard Feldman's talk Introduction to Elm
+- Mario Time Travelling Debugger
+- Stores inputs and sends them through the new code after hot swapping
